@@ -4,6 +4,7 @@ Clase PUNTO
 *******************************************************************************/
 #include <iostream>
 
+
 using namespace std;
 /////////// Definicion de la clase
 class Punto{
